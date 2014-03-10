@@ -1,0 +1,16 @@
+Fitter Status : Successful - Fri Aug 24 20:35:22 2012
+Quartus II Version : 11.0 Build 157 04/27/2011 SJ Web Edition
+Revision Name : DE2_115_CAMERA
+Top-level Entity Name : DE2_115_CAMERA
+Family : Cyclone IV E
+Device : EP4CE115F29C7
+Timing Models : Final
+Total logic elements : 3,906 / 114,480 ( 3 % )
+    Total combinational functions : 3,585 / 114,480 ( 3 % )
+    Dedicated logic registers : 1,178 / 114,480 ( 1 % )
+Total registers : 1178
+Total pins : 428 / 529 ( 81 % )
+Total virtual pins : 0
+Total memory bits : 59,344 / 3,981,312 ( 1 % )
+Embedded Multiplier 9-bit elements : 27 / 532 ( 5 % )
+Total PLLs : 1 / 4 ( 25 % )

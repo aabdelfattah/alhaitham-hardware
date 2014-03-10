@@ -1,0 +1,3 @@
+Warning (10268): Verilog HDL information at rgb2hsv.v(64): always construct contains both blocking and non-blocking assignments
+Warning (10273): Verilog HDL warning at Sdram_Control.v(322): extended using "x" or "z"
+Warning (10268): Verilog HDL information at GET_CENTER.v(19): always construct contains both blocking and non-blocking assignments
