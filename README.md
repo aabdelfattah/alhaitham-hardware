@@ -6,8 +6,7 @@ The aim of this project is the proposal of a real time vision system for its app
 
 - The project is based on the ALTERA DE2-115 FPGA kit and the TRDB-D5M camera.
 
-- The current repository includes the hardware files only, software files will be uploaded to another 
-repository.
+- The current repository includes the hardware files only, software files can be found at [al-haitham software repo](https://github.com/aabdelfattah/alhaitham-software "alhaitham-software").
 
 - Check pdf/project-doc.pdf for more technical details and block diagrams.
 
@@ -29,7 +28,7 @@ Just clone the repo:
 git clone https://github.com/aabdelfattah/alhaitham-hardware.git
 ```
 
-1. Import the selected project from the subversion repository to the local drive.
+1. Import the selected project from the repository to the local drive.
 
 2. Open the project in Quartus II.
 
