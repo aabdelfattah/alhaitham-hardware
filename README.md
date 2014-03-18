@@ -55,4 +55,4 @@ Download the SOF to the DE2-115 , and run the software from NIOS II IDE .
 
 ## License
 
-See LICENSE file for details
+See LICENSE file for details (note : the license applies for our contributions only , other modules by TERASIC and ALTERA have their separate licensing)
